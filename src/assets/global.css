@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(158, 158, 190);
+}
+
+.container {
+    width: 90%;
+    max-width: 960px;
+    background-color: white;
+    margin: 80px auto;
+    padding: 30px 0;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(145, 87, 87);
+}
+
+span{
+    color: crimson;
+    cursor: pointer;
+    text-decoration: underline;
+}
+p {
+    text-align: center;
+}
+.error {
+    color: crimson;
+}
